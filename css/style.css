@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;900&display=swap');
+
+body {
+    background-color: #f3e9e2;
+}
+
+h1 {
+    color: #4b4f54;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 170px ;
+    text-align: center;
+}
+
+h2 {
+   color: #ff8f6c;
+   font-family: 'Raleway', sans-serif;
+   font-size: 120px;
+   text-align: left;
+   font-weight: 900;
+   margin: 20px 15px 10px 60px;
+}
+
+p {
+    color: #4b4f54;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: #ff8f6c;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 15px;
+    text-align: center;
+}
+
+.fotoray {
+    width: 700px;
+    height: 700px;
+    padding: 20px;
+    border: 5px;
+    margin: 50px;
+}
+
+.logotopo {
+    width: 50px;
+    height: 60px;
+    margin-top: 40px;
+    padding-left: 50%;
+}
+
+.frases {
+   padding-left: 35%;
+   margin-top: -670px;
+}
+
+.sobre {
+    margin: 120px 320px 120px;
+    border-left: 2px solid #4b4f54;
+    padding-left: 15px;
+}
+
+.experiencia {
+    margin: 10px 320px 120px;
+    border-left: 2px solid #4b4f54;
+    padding-left: 15px;
+}
+
+.cabeçalho {
+    margin: 0 100px 60px;
+    padding: 10px 30px 40px 10px;
+}
+
+.oi{
+    font-size: 60px;
+}
+.redessociais {
+  margin: 40px 300px;   
+  text-align: center;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+ul a:hover {
+    color: #4b4f54;
+    border-bottom: 2px solid #4b4f54;
+}
+
